@@ -33,11 +33,10 @@
 #pragma once
 #endif
 
-#ifndef PBRT_CORE_MEMORY_H
-#define PBRT_CORE_MEMORY_H
+#ifndef CORE_MEMORY_H
+#define CORE_MEMORY_H
 
-// core/memory.h*
-#include "pbrt.h"
+#include "global.h"
 #include "parallel.h"
 
 // Memory Declarations
